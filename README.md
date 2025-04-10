@@ -92,13 +92,21 @@ python password_generator.py
 
 Main Interface
 
+![Image](https://github.com/user-attachments/assets/39858610-939d-435c-b7cb-3710847a94c8)
+
 ### 🟡 Weather Data Displayed
 
 Weather Display
 
+![Image](https://github.com/user-attachments/assets/d5743974-0f19-4360-8145-ae2791a12cc9)
+
+![Image](https://github.com/user-attachments/assets/99f403dd-b3ce-419a-8bd0-f2b6e7f61583)
+
 ### 🔴 Error Message (Invalid City)
 
 Error Message
+
+![Image](https://github.com/user-attachments/assets/1c18932a-f726-435c-8be7-673d025d9382)
 
 ---
 
